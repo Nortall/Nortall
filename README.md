@@ -3,7 +3,7 @@
 ## I`m QA-engineer
 
 ## My CV
-![CV](https://drive.google.com/file/d/1KYWYCPar0DJJYYSLv0BxtxHi531aCuTM/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/-CV-090909?style=for-the-badge&logo=&logoColor=blue)](https://drive.google.com/file/d/1KYWYCPar0DJJYYSLv0BxtxHi531aCuTM/view?usp=drive_link)
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
@@ -15,6 +15,5 @@
 ![TestIt](https://img.shields.io/badge/-TestIt-090909?style=for-the-badge&logo=testit&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=orange)
 
-## Follow Me
-
-
+## Contacts
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/nortal)
