@@ -1,6 +1,6 @@
 ![Header](https://github.com/Nortall/Nortall/blob/main/assets/image.png)
 
-## I`m QA-engineer
+## I`m a QA-engineer
 
 ## My CV
 [![CV](https://img.shields.io/badge/-CV-090909?style=for-the-badge&logo=&logoColor=blue)](https://drive.google.com/file/d/1KYWYCPar0DJJYYSLv0BxtxHi531aCuTM/view?usp=drive_link)
