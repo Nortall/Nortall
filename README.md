@@ -1,5 +1,3 @@
-![Header](https://github.com/Nortall/Nortall/blob/main/assets/image.png)
-
 ## I`m a QA-engineer
 
 ## My CV
@@ -18,3 +16,5 @@
 ## Contacts
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/nortal)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/nortall)
+
+![Header](https://github.com/Nortall/Nortall/blob/main/assets/image.png)
